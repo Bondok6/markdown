@@ -186,4 +186,4 @@ the book [^1] has good exercises
 
 the book [^1] has good exercises
 
-[^1]: you can find the book on Google
+[^1]: you can find the book on Google.
